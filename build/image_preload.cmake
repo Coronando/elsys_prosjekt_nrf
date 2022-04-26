@@ -1,0 +1,10 @@
+# Generated file that can be used to preload variant images
+set(BOARD nrf9160dk_nrf9160_ns CACHE INTERNAL "NCS child image controlled")
+set(BOARD_ROOT /Users/imisslinux/Documents/NTNU/ElsysProsjekt/nrf9160_testspace/elsys_prosjekt;/opt/nordic/ncs/v1.9.0/nrf;/opt/nordic/ncs/v1.9.0/zephyr CACHE INTERNAL "NCS child image controlled")
+set(CACHED_CONF_FILE /Users/imisslinux/Documents/NTNU/ElsysProsjekt/nrf9160_testspace/elsys_prosjekt/prj.conf CACHE INTERNAL "NCS child image controlled")
+set(CONFIG_DEBUG_OPTIMIZATIONS y CACHE INTERNAL "NCS child image controlled")
+set(CONFIG_DEBUG_THREAD_INFO y CACHE INTERNAL "NCS child image controlled")
+set(DTC_OVERLAY_FILE /Users/imisslinux/Documents/NTNU/ElsysProsjekt/nrf9160_testspace/elsys_prosjekt/boards/nrf9160dk_nrf9160_ns.overlay CACHE INTERNAL "NCS child image controlled")
+set(DTC_OVERLAY_FILE /Users/imisslinux/Documents/NTNU/ElsysProsjekt/nrf9160_testspace/elsys_prosjekt/boards/nrf9160dk_nrf9160_ns.overlay CACHE INTERNAL "NCS child image controlled")
+set(NCS_TOOLCHAIN_VERSION NONE CACHE INTERNAL "NCS child image controlled")
+set(WEST_PYTHON /opt/nordic/ncs/v1.9.0/toolchain/opt/python@3.9/bin/python3.9 CACHE INTERNAL "NCS child image controlled")

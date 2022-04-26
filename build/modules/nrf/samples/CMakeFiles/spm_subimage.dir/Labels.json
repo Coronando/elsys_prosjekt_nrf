@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/imisslinux/Documents/NTNU/ElsysProsjekt/nrf9160_testspace/elsys_prosjekt/build/modules/nrf/samples/CMakeFiles/spm_subimage"
+		},
+		{
+			"file" : "/Users/imisslinux/Documents/NTNU/ElsysProsjekt/nrf9160_testspace/elsys_prosjekt/build/modules/nrf/samples/CMakeFiles/spm_subimage.rule"
+		},
+		{
+			"file" : "/Users/imisslinux/Documents/NTNU/ElsysProsjekt/nrf9160_testspace/elsys_prosjekt/build/modules/nrf/samples/CMakeFiles/spm_subimage-complete.rule"
+		},
+		{
+			"file" : "/Users/imisslinux/Documents/NTNU/ElsysProsjekt/nrf9160_testspace/elsys_prosjekt/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-build.rule"
+		},
+		{
+			"file" : "/Users/imisslinux/Documents/NTNU/ElsysProsjekt/nrf9160_testspace/elsys_prosjekt/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-configure.rule"
+		},
+		{
+			"file" : "/Users/imisslinux/Documents/NTNU/ElsysProsjekt/nrf9160_testspace/elsys_prosjekt/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-download.rule"
+		},
+		{
+			"file" : "/Users/imisslinux/Documents/NTNU/ElsysProsjekt/nrf9160_testspace/elsys_prosjekt/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-install.rule"
+		},
+		{
+			"file" : "/Users/imisslinux/Documents/NTNU/ElsysProsjekt/nrf9160_testspace/elsys_prosjekt/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-mkdir.rule"
+		},
+		{
+			"file" : "/Users/imisslinux/Documents/NTNU/ElsysProsjekt/nrf9160_testspace/elsys_prosjekt/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-patch.rule"
+		},
+		{
+			"file" : "/Users/imisslinux/Documents/NTNU/ElsysProsjekt/nrf9160_testspace/elsys_prosjekt/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"spm_subimage"
+		],
+		"name" : "spm_subimage"
+	}
+}
